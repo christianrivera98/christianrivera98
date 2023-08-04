@@ -5,7 +5,7 @@
 
 ### Languages and tools:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="Babel" width="50"/>](https://babeljs.io/)
-[<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/48-css3-512.png" alt="CSS" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="[https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/48-css3-512.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" alt="CSS" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png" alt="Figma" width="50"/>](https://www.figma.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="JavaScript" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50"/>](https://reactjs.org/)
