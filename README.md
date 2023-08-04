@@ -13,7 +13,7 @@
 - 🌟 I'm always on the lookout for opportunities to grow and learn. 
 
 ###Languages and tools:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="Babel" width="20"/>](https://babeljs.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="Babel" width="80"/>](https://babeljs.io/)
 
   
 ### 🎵 Beyond the Screen
