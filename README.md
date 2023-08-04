@@ -1,13 +1,19 @@
-- 👋 Hi, I’m Christian R. Lamadrid
+<div id="header" align="center">
+     <h1 align="center">👋 Hi, I’m Christian R. Lamadrid</h1>
+     <h3>👀 I’m interested in in technology, innovation and programming.🌱 I’m currently learning frontend development.How to reach me https://www.linkedin.com/in/christianrivera-ingeniero/ .🎓 My background in mechatronics engineering has provided me with a solid foundation in problem-solving and analytical thinking, which I eagerly apply to the world of development. 🌟 I'm always on the lookout for opportunities to grow and learn. </h3>
+</div>
+
+
+- 
 - 👀 I’m interested in in technology, innovation and programming
 - 🌱 I’m currently learning frontend development
 - 📫 How to reach me https://www.linkedin.com/in/christianrivera-ingeniero/
-- 🎓 My background in mechatronics engineering has provided me with a solid foundation in problem-solving and analytical     
-     thinking, which I eagerly apply to the world of development.
+- 🎓 My background in mechatronics engineering has provided me with a solid foundation in problem-solving and analytical    
+      thinking, which I eagerly apply to the world of development.
 - 🌟 I'm always on the lookout for opportunities to grow and learn. 
 
 ###Languages and tools:
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=Babel&label=https%3A%2F%2Fbabeljs.io%2F)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat)
 
   
 ### 🎵 Beyond the Screen
