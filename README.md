@@ -7,6 +7,7 @@
 - 🌟 I'm always on the lookout for opportunities to grow and learn. 
 
 ###Languages and tools:
+(https://camo.githubusercontent.com/1abf71d00a4a13bfdeccdc131c65f02644fae4e746289bd7c21bf1d2af986389/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f626162656c6a732f626162656c6a732d69636f6e2e737667)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
