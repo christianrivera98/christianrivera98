@@ -11,6 +11,13 @@ that scales today to 23 product modules, integrated the platform's
 financial flows (Plaid, Stripe, AWS Cognito), and maintain the
 project's architecture and clean-code guide as main code reviewer.
 
+In parallel, building **HogarYa**, a mobile marketplace app
+on React Native + Expo with a Clean Architecture foundation:
+strict layer separation (domain, application, infrastructure,
+presentation), dependency injection, an Atomic Design component
+library and dual state management (React Query for server state,
+Zustand for UI state).
+
 ### Selected work
 
 - **QPER** — Frontend lead on a multi-role logistics platform
