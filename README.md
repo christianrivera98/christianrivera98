@@ -6,8 +6,10 @@ I build production SaaS platforms in fintech and logistics.
 ### Currently
 
 Leading the frontend at **ToolBooks**, a US-based bookkeeping
-and payroll SaaS. I own the architecture, the design system
-and the code quality bar.
+and payroll SaaS. I defined the Domain-Driven Feature architecture
+that scales today to 23 product modules, integrated the platform's
+financial flows (Plaid, Stripe, AWS Cognito), and maintain the
+project's architecture and clean-code guide as main code reviewer.
 
 ### Selected work
 
@@ -15,8 +17,6 @@ and the code quality bar.
   integrated with Colombia's RNDC government dispatch system.
 - **[getservice.ai](https://www.getservice.ai/)** — Real-time
   locksmith dispatch platform now in production.
-- **Bancolombia** — Internal monitoring tooling for a
-  high-criticality banking environment.
 
 ### Stack
 
